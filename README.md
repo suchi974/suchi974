@@ -18,4 +18,4 @@ A console-based billing system developed in C to handle product details, calcula
 A deep learning model built with Convolutional Neural Networks to recommend fashion based on user behavior patterns and data.
 
 
----Thanks for visiting! I'm always learning, building, and open to new opportunities.
+---Thanks for visiting! I'm always open to new opportunities.
