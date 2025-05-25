@@ -11,11 +11,9 @@ I'm exploring areas like image processing and deep learning.
 
 ### 🛠 Projects
 
-### **Billing Software (C)**
-A console-based billing system developed in C to handle product details, calculate bills with tax and discounts, and manage transaction records using file handling.
-
-### **Fashion Recommendation System (CNN)**
-A deep learning model built with Convolutional Neural Networks to recommend fashion based on user behavior patterns and data.
+### **Console-based software (c)**
+### **CNN Model in Deep Learning**
+### **Website (front-end only)**
 
 
 ---Thanks for visiting! I'm always open to new opportunities.
