@@ -11,9 +11,9 @@ I'm exploring areas like image processing and deep learning.
 
 ### 🛠 Projects
 
-### **Console-based software (c)**
-### **CNN Model in Deep Learning**
-### **Website (front-end only)**
+- **Console-based software (c)**
+- **CNN Model in Deep Learning**
+- **Website (front-end only)**
 
 
 ---Thanks for visiting! I'm always open to new opportunities.
