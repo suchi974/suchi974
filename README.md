@@ -1,7 +1,7 @@
 # Hi, I'm Suchismita Ghosh 
 
 Welcome to my GitHub! I'm a dedicated Computer Science student skilled in C, C++, Python, MySQL, Prolog. 
-I'm exploring areas like image processing and deep learning.
+I'm exploring areas like image processing, deep learning and data analysis. 
 
 ### 🚀 Skills
 - **Languages:** C, C++, Python
