@@ -15,4 +15,4 @@ Welcome to my GitHub! I'm a dedicated Computer Science student exploring areas l
 - **Online Food Delivery Website**
 
 
----Thanks for visiting! I'm always open to new opportunities and collaborations.
+Thanks for visiting! I'm always open to new opportunities and collaborations.
