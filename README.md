@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a dedicated Computer Science student exploring areas l
 
 ### 🛠 Projects
 
-- **Console-based Billing Software**
+- **Console Billing System**
 - **CNN Model using Deep Learning**
 - **Online Food Delivery Website**
 
