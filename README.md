@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a dedicated Computer Science student exploring areas l
 
 - **Console-based software (c)**
 - **CNN Model in Deep Learning**
-- **Website (front-end only)**
+- **Online Food Delivery Website**
 
 
 ---Thanks for visiting! I'm always open to new opportunities and collaborations.
