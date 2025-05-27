@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a dedicated Computer Science student exploring areas l
 ### 🛠 Projects
 
 - **Console-based Billing Software**
-- **CNN Model in Deep Learning**
+- **CNN Model using Deep Learning**
 - **Online Food Delivery Website**
 
 
