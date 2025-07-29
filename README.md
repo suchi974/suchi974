@@ -2,14 +2,17 @@
 
 Welcome to my GitHub! 
 
-I'm a dedicated Computer Science student, actively exploring areas like Computer vision, deep learning and data science. 
+I'm a dedicated Computer Science student, actively exploring areas like Computer vision and deep learning.
 
 
 ## Check out my project: 
 
 📌[FlavourDelights](https://suchi974.github.io/FLAVOUR-DELIGHTS/)
+A responsive, frontend-only food delivery website built with HTML and inline CSS.
 
-📌[Youth Fashion Recommendation System](https://drive.google.com/file/d/1VMUJI-FXZFxXyQS6D9ftmS6FqVpoyvUx/view?usp=drivesdk)
+
+📌[Youth Fashion Recommendation System](https://drive.google.com/file/d/1VMUJI-FXZFxXyQS6D9ftmS6FqVpoyvUx/viewusp=drivesdk)
+A Streamlit-based app that recommends fashion products based on uploaded images using ResNet50 and computer vision.
 
 
 ### Thanks for visiting!✨️
