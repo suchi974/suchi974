@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! 
 
-I'm a dedicated Computer Science student, actively exploring areas like Computer vision and deep learning.
+I'm a Computer Science student. 
 
 
 ## Check out my project: 
