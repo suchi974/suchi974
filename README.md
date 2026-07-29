@@ -1,3 +1,2 @@
-Hey, it's Suchismita Ghosh, a Computer Science student. 
-
-
+# Hi 👋 I'm Suchismita Ghosh 
+💻 CS Student | 🚀 Learning to build amazing projects | 🌱 Exploring new technologies.
