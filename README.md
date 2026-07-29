@@ -1,3 +1,3 @@
-# Hey, it's Suchismita Ghosh, a Computer Science student. 
+Hey, it's Suchismita Ghosh, a Computer Science student. 
 
 
